@@ -1,5 +1,4 @@
 <h1 align="center">Hey 👋 <br>This is Arjun</h1>
-![Pacman Contribution Graph](https://raw.githubusercontent.com/TheAJ-7/TheAJ-7/output/pacman-contribution-graph.svg)
 
 ###
 
@@ -31,7 +30,7 @@
   <a href="https://www.linkedin.com/in/arjun-as7/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="aas@binghamton.edu" target="_blank">
+  <a href="mailto:aas@binghamton.edu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
