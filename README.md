@@ -1,4 +1,5 @@
 <h1 align="center">Hey 👋 <br>This is Arjun</h1>
+![Pacman Contribution Graph](https://raw.githubusercontent.com/TheAJ-7/TheAJ-7/output/pacman-contribution-graph.svg)
 
 ###
 
@@ -48,6 +49,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheAJ-7/TheAJ-7/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TheAJ-7/TheAJ-7/output/pacman-contribution-graph.svg">
 </picture>
-![Pacman Contribution Graph](https://raw.githubusercontent.com/TheAJ-7/TheAJ-7/output/pacman-contribution-graph.svg)
 
 ###
